@@ -16,3 +16,16 @@ https://docs.python.org/3/license.html#bsd0
 Лицензия: MIT License
 Текст лицензии:
 https://github.com/lesskop/shtosh-calculator/blob/master/LICENSE
+
+## Для запуска приложения следуйте инструкции:
+(1 вариант)
+- Скачайте zip c репозитория https://github.com/Victoriya11/calc/archive/refs/heads/main.zip 
+- Распакуйте архив
+- В консоли ввести команду pip install PyInstaller
+- В консоли введите команду pyinstaller -w -i "icons\calc_ico.ico" calc.py (следует прописать полный путь или открыть командную строку в папке с файлами)
+- Запустить файл в папке dist/calc/calc.exe
+
+(2 вариант)
+- Скачайте zip c Яндекс.Диска https://disk.yandex.ru/d/XcRYv-_Q-iebTA
+- Распакуйте архив
+- Запустить файл в папке dist/calc/calc.exe
