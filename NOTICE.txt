@@ -1,0 +1,11 @@
+Проект использует материалы, полученные из открытых источников с
+указанием авторства и соответствующих условий использования.
+
+- Иконка Calculate --
+Ссылка: https://fonts.google.com/icons?selected=Material%20Icons%20Outlined%3Acalculate%3A
+- Иконка Backspace --
+Ссылка: https://fonts.google.com/icons?selected=Material%20Icons%20Outlined%3Abackspace%3A
+Условия предоставления: https://policies.google.com/terms?hl=en
+- Иконка Калькулятор -- Тристан Эдвардс
+Ссылка: https://www.iconfinder.com/search?q=calculator&price=free&license=gte__3
+Условия предоставления: https://support.iconfinder.com/en/articles/18227-terms-of-service
